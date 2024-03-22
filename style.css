@@ -1,0 +1,8 @@
+.postwave {
+}
+
+.nav{
+    display: flex;
+    border: solid red;
+    background-color: hsl(0, 0%, 82%);
+}
